@@ -1,13 +1,20 @@
 # Baileys - Typescript/Javascript WhatsApp Web API
 
-### Important Note
+<div align="center"><img src="https://files.catbox.moe/urxlw4.jpg"></div>
 
-This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
+<div align='center'>
 
-#### Liability and License Notice
-Baileys and its maintainers cannot be held liable for misuse of this application, as stated in the [MIT license](https://github.com/WhiskeySockets/Baileys/blob/master/LICENSE).
-The maintainers of Baileys do not in any way condone the use of this application in practices that violate the Terms of Service of WhatsApp. The maintainers of this application call upon the personal responsibility of its users to use this application in a fair way, as it is intended to be used.
-##
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/whiskeysockets/baileys/total)
+![NPM Downloads](https://img.shields.io/npm/dw/%40whiskeysockets%2Fbaileys?label=npm&color=%23CB3837)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
+![GitHub License](https://img.shields.io/github/license/whiskeysockets/baileys)
+![Discord](https://img.shields.io/discord/725839806084546610?label=discord&color=%235865F2)
+![GitHub Repo stars](https://img.shields.io/github/stars/whiskeysockets/baileys)
+![GitHub forks](https://img.shields.io/github/forks/whiskeysockets/baileys)
+
+</div>
+
+AlanBails-Vegacy adalah library berbasis Node.js yang memanfaatkan protokol WhatsApp Web melalui Baileys. Proyek ini merupakan hasil modifikasi dari Whiskey Baileys dengan fokus pada stabilitas, performa tinggi, dan dukungan penuh terhadap fitur-fitur WhatsApp Multi-Device (MD).
 
 Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. 
 Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 

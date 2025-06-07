@@ -14,7 +14,7 @@
 
 </div>
 
-AlanBails-Vegacy adalah library berbasis Node.js yang memanfaatkan protokol WhatsApp Web melalui Baileys. Proyek ini merupakan hasil modifikasi dari Whiskey Baileys dengan fokus pada stabilitas, performa tinggi, dan dukungan penuh terhadap fitur-fitur WhatsApp Multi-Device (MD).
+AlanBails-Legacy is a Node.js based library that leverages the WhatsApp Web protocol via Baileys. This project is a modification of Whiskey Baileys with a focus on stability, high performance, and full support for WhatsApp Multi-Device (MD) features.
 
 Baileys does not require Selenium or any other browser to be interface with WhatsApp Web, it does so directly using a **WebSocket**. 
 Not running Selenium or Chromimum saves you like **half a gig** of ram :/ 
